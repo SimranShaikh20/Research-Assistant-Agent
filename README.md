@@ -1,7 +1,6 @@
 # 🤖 ADK Research Assistant Agent
 
-A multi-step AI research agent built with **Google Agent Development Kit (ADK)**,
-created as part of the [Google Cloud NEXT '26 Writing Challenge](https://dev.to/challenges/googlecloudnext).
+
 
 ## What It Does
 
